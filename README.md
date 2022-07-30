@@ -9,7 +9,7 @@ Proyecto frontend que consiste en un crud de clientes usando vue 3 conectandose 
 * Tailwindcss
 * Axios, fetch api
 
-### Instalacion
+### Instalación
 * Clonar el repositorio
 * npm install
 * npm run dev
